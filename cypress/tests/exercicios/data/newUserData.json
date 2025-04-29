@@ -1,0 +1,9 @@
+{
+    "newUserRegister": {
+        "firstName": "Teste",
+        "lastName": "Teste",
+        "username": "Teste1",
+        "password": "teste123",
+        "confirmPassword": "teste123"
+    }
+}

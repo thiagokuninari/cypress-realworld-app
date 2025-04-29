@@ -74,6 +74,105 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "LpBvWRNbh",
+      "uuid": "b358da7e-9452-4553-a989-ec36176bd793",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$iXhtzCVM02f7RJ1obal.R.hQa.Q/J2rVwFTOjeab2mykxBr9uAfY2",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:18:13.684Z",
+      "modifiedAt": "2025-04-29T13:18:13.684Z"
+    },
+    {
+      "id": "hC7A42WcZ",
+      "uuid": "8c000fa2-ff51-4d18-9cef-a64d99ad99c6",
+      "firstName": "thiago",
+      "lastName": "kuninari",
+      "username": "thimuka",
+      "password": "$2a$10$kSgaW9ZA1ij4vv0VBZfGIev2OR/xyWQxPk3rFYFEYMGyZXY9WEIBG",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:20:12.359Z",
+      "modifiedAt": "2025-04-29T13:20:12.359Z"
+    },
+    {
+      "id": "vF9q0ONKp",
+      "uuid": "6567edc0-ad22-4e8d-941f-74cc47aa4249",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$WE/jFMRrqhWbxRCF0UuOyOyK67nBTHGxwA/ZBk8o3vUz/Ji7JoONi",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:22:28.592Z",
+      "modifiedAt": "2025-04-29T13:22:28.592Z"
+    },
+    {
+      "id": "iherXinHR",
+      "uuid": "dc40e7e7-e8ac-4ba6-b209-48fc4630b8e0",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$pMmWKCPx0hvWxOxG25RQv.ModAuqBJK4TTMPDJI1c.m64Oa96CIPC",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:24:37.749Z",
+      "modifiedAt": "2025-04-29T13:24:37.749Z"
+    },
+    {
+      "id": "w_Oq2O7IM",
+      "uuid": "1e512b9a-abfd-46f7-af7c-c6745561e96e",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$5dO84jLcB56iG47qN4bAmuTUBrrJ1Xd31TPHA/Y2JIzHXThXgKhOC",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:24:52.170Z",
+      "modifiedAt": "2025-04-29T13:24:52.170Z"
+    },
+    {
+      "id": "3K6KsGe7e",
+      "uuid": "2ab511e7-f5f3-46c2-9809-8d35f8e8890e",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$j/NTVoGB09y9GQlassrJXeiaxGz3K84n0mzZo5XC7aTo1J4FVvfkK",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:30:45.719Z",
+      "modifiedAt": "2025-04-29T13:30:45.719Z"
+    },
+    {
+      "id": "x4ZFb0FVJ",
+      "uuid": "1b19d45a-01bc-415f-ab75-ad0e2e73758f",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$O8xq3.904Wo9KR0wlAV6F.DCL6V4AGA/n22nvkU0VM89idCVbE38C",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:32:46.223Z",
+      "modifiedAt": "2025-04-29T13:32:46.223Z"
+    },
+    {
+      "id": "KzqHK4cJc",
+      "uuid": "8d1d9c81-797f-4ce0-b722-9aaee0934803",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$Z2X0J1M2rvFxqppLHie8ZeYB5mshkdQEZB49mwUrHoSQ2LQGjbJ1u",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:34:03.263Z",
+      "modifiedAt": "2025-04-29T13:34:03.263Z"
+    },
+    {
+      "id": "c_NFq4VFd",
+      "uuid": "879b46e1-a7de-415a-9297-81d7cc9061ef",
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "username": "Teste1",
+      "password": "$2a$10$sbm0C8gEW5X22g49gZf6UOz8ERCNlJ9SsiIPEVZ639J0hATQuN9BW",
+      "balance": 0,
+      "createdAt": "2025-04-29T13:34:23.193Z",
+      "modifiedAt": "2025-04-29T13:34:23.193Z"
     }
   ],
   "contacts": [
@@ -206,7 +305,7 @@
       "bankName": "Waters, King and O'Reilly Bank",
       "accountNumber": "7774132232",
       "routingNumber": "996645387",
-      "isDeleted": false,
+      "isDeleted": true,
       "createdAt": "2023-03-28T21:55:07.857Z",
       "modifiedAt": "2024-03-07T20:50:34.541Z"
     },
